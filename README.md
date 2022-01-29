@@ -1,0 +1,3 @@
+# small-SDL2-game
+
+This is a small project written in c++ that I wrote for a school assignment. It uses the SDL2 library to define a very small "game engine", and also includes an actual implementation of a very primitive game to test said engine. The game uses the sprites in the images folder, and the goal is to defeat the alien ship by controlling a spaceship and shooting lasers. The collision detection in the game is not very sophisticated, as it is based on entire rectangles instead of specific pixels. You move the spaceship with the left and right arrow, and shoot lasers with the up arrow.  
